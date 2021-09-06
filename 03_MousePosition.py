@@ -4,8 +4,8 @@ import os
 
 print("\t |#############################################################| \t")
 print("\t |#############################################################| \t")
-print("\t |**Robô encontra-se atuando na tarefa de abrir Site Pontotel**| \t")
-print("\t |ABRIR O SITE, COLETAR ARQUIVO R09 E TRATAR EXCEL INICIALMENTE| \t")
+print("\t |**Robô encontra-se atuando na tarefa de coletar dados mouse**| \t")
+print("\t |APONTAR MOUSE, COLETAR COORDENADAS 'X'e'Y' DA TELA  PYAUTOGUI| \t")
 print("\t |                         \      /                            | \t")
 print("\t |                         (\____/)                            | \t")
 print("\t |                          (_oo_)                             | \t")
